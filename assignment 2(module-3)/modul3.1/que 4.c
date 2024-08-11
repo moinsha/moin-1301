@@ -14,7 +14,7 @@ main()
     scanf("%f", &time);
 
     
-    printf("Simple Interest = %.2f\n", simpleInterest=(amount* rate * time) / 100);
+    printf("Simple Interest = %.2f\n", simpleInterest=(amount* rate * time) / 100);  // formula of simple intrest
 
     
 }
